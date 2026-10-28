@@ -1,11 +1,18 @@
 {
   "id": "./",
-  "name": "Treino da Gislaine",
-  "short_name": "Treino",
+  "name": "Projeto Gislaine",
+  "short_name": "Gislaine",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0d1118",
-  "theme_color": "#171e29",
-  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+  "background_color": "#08090d",
+  "theme_color": "#08090d",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
 }
